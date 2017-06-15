@@ -1,0 +1,11 @@
+239,239,0,59,60,3,
+..\\result_usa\\Rvector\\sobel_under
+..\\bmp\\enza\\enza_sd50.bmp
+..\\フィルタ\\3×3sobel\\sobel0.txt
+..\\フィルタ\\3×3sobel\\sobel45.txt
+..\\フィルタ\\3×3sobel\\sobel90.txt
+..\\フィルタ\\3×3sobel\\sobel135.txt
+..\\フィルタ\\3×3sobel\\sobel180.txt
+..\\フィルタ\\3×3sobel\\sobel225.txt
+..\\フィルタ\\3×3sobel\\sobel270.txt
+..\\フィルタ\\3×3sobel\\sobel315.txt

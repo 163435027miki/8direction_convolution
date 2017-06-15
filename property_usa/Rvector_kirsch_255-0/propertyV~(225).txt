@@ -1,0 +1,12 @@
+119,119,1,59,60,3,
+..\\result_usa\\Rvector\\kirsch_under
+..\\bmp\\255-0\\255-0-IT225.bmp
+..\\フィルタ\\3×3kirsch\\kirsch0.txt
+..\\フィルタ\\3×3kirsch\\kirsch45.txt
+..\\フィルタ\\3×3kirsch\\kirsch90.txt
+..\\フィルタ\\3×3kirsch\\kirsch135.txt
+..\\フィルタ\\3×3kirsch\\kirsch180.txt
+..\\フィルタ\\3×3kirsch\\kirsch225.txt
+..\\フィルタ\\3×3kirsch\\kirsch270.txt
+..\\フィルタ\\3×3kirsch\\kirsch315.txt
+

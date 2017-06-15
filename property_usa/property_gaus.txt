@@ -1,0 +1,11 @@
+240,240,0,59,60,3,
+..\\result\\Rvector\\sobel_under
+..\\bmp\\enza\\enza_sd30.bmp
+..\\ƒtƒBƒ‹ƒ^\\3~3gaus\\3~3gaus.txt
+..\\ƒtƒBƒ‹ƒ^\\3~3gaus\\3~3gaus.txt
+..\\ƒtƒBƒ‹ƒ^\\3~3gaus\\3~3gaus.txt
+..\\ƒtƒBƒ‹ƒ^\\3~3gaus\\3~3gaus.txt
+..\\ƒtƒBƒ‹ƒ^\\3~3gaus\\3~3gaus.txt
+..\\ƒtƒBƒ‹ƒ^\\3~3gaus\\3~3gaus.txt
+..\\ƒtƒBƒ‹ƒ^\\3~3gaus\\3~3gaus.txt
+..\\ƒtƒBƒ‹ƒ^\\3~3gaus\\3~3gaus.txt

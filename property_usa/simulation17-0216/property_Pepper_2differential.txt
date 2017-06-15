@@ -1,0 +1,11 @@
+256,256,0,59,60,16,
+..\\Rvector\\Pepper.bmp
+..\\bmp\example\\Pepper.bmp
+..\\フィルタ\\Log-like\\Log-like.txt
+..\\フィルタ\\Log-like\\Log-like.txt
+..\\フィルタ\\Log-like\\Log-like.txt
+..\\フィルタ\\Log-like\\Log-like.txt
+..\\フィルタ\\Log-like\\Log-like.txt
+..\\フィルタ\\Log-like\\Log-like.txt
+..\\フィルタ\\Log-like\\Log-like.txt
+..\\フィルタ\\Log-like\\Log-like.txt

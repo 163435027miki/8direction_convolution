@@ -1,0 +1,11 @@
+240,240,0,59,60,3,
+..\\Rvector\\sobel_1209
+..\\bmp\\enza_gaus\\enza_sd40_gaus.bmp
+..\\フィルタ\\3×3sobel\\sobel0.txt
+..\\フィルタ\\3×3sobel\\sobel45.txt
+..\\フィルタ\\3×3sobel\\sobel90.txt
+..\\フィルタ\\3×3sobel\\sobel135.txt
+..\\フィルタ\\3×3sobel\\sobel180.txt
+..\\フィルタ\\3×3sobel\\sobel225.txt
+..\\フィルタ\\3×3sobel\\sobel270.txt
+..\\フィルタ\\3×3sobel\\sobel315.txt

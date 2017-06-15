@@ -1,0 +1,24 @@
+
+#include<stdio.h>
+#include<math.h>
+	FILE *fp;
+	a=0;
+	//------------------------ファイルへの書き込み--------------------------//
+	if((fp=fopen("..\\obcount.txt","w"))==NULL){exit(1);}
+	for(i=1;i<=ob_count;i++){
+		fprintf(fp,"%d\t%d(%d,%d)",i,sisei[i],zahyoux[i],zahyouy[i]);
+		fprintf(fp,"\n");
+		if(sisei[i]!=0)	a=a+1;//総数を数える
+	}
+	fprintf(fp,"%d",a);//総数
+	fclose(fp);
+	////////////////////////ファイルへの書き込み終わり////////////////////////
+
+	//------------------------ファイルへの書き込み--------------------------//
+	if((fp=fopen("..\\data.txt","w"))==NULL){exit(1);}
+	for(i=1;i<=ob_count;i++){
+		fprintf(fp,"%d	%d	%d	%d",i,sisei[i],zahyoux[i],zahyouy[i]);
+		fprintf(fp,"\n");
+	}
+	fclose(fp);
+	////////////////////////ファイルへの書き込み終わり////////////////////////

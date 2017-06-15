@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{72e21507-e299-4730-9da4-18223ce2d81a}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Source Files\1_main">
+      <UniqueIdentifier>{2a16da18-8785-466a-af56-9edc523098a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\2_ウィンドウを作る">
+      <UniqueIdentifier>{97e40607-093e-494f-ba98-16d4140264d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\3_ウィンドウプロシージャ">
+      <UniqueIdentifier>{6a4116b6-95cf-4115-86b3-68e341481e8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\4_BMPの関数">
+      <UniqueIdentifier>{275208ac-4a7e-4c25-8c28-d3ab4dafab0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{fbb6cd6c-b337-4474-a107-942d052abe69}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{cb5d0147-4b2f-44b3-893e-76bae44ff222}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Source Files\6_その他">
+      <UniqueIdentifier>{13aa3e1d-35d9-4afd-a33e-7a70c918bb57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\5_openCV">
+      <UniqueIdentifier>{bb0ae8a0-3593-49bd-aacd-acec9e4313a7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\WINAPIメイン.cpp">
+      <Filter>Source Files\1_main</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ウィンドウの生成.cpp">
+      <Filter>Source Files\2_ウィンドウを作る</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ウィンドウ・クラスの登録.cpp">
+      <Filter>Source Files\2_ウィンドウを作る</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ウィンドウプロシージャ.cpp">
+      <Filter>Source Files\3_ウィンドウプロシージャ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\BMPを保存する.cpp">
+      <Filter>Source Files\4_BMPの関数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\BMPを処理する場所を作る.cpp">
+      <Filter>Source Files\4_BMPの関数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\BMPを読み込む.cpp">
+      <Filter>Source Files\4_BMPの関数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ウィンドウにBMPを表示.cpp">
+      <Filter>Source Files\4_BMPの関数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Nrutil.cpp">
+      <Filter>Source Files\6_その他</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\フィルタ演算.cpp">
+      <Filter>Source Files\6_その他</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\make_image.cpp">
+      <Filter>Source Files\5_openCV</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\Nrutil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
